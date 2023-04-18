@@ -7,3 +7,7 @@ then created a class bubble and within that I created a show and move to help di
 in the class on line 31 wrote constructor this.x and this.y
 in the show brakets I used what I would use if I had created a draw function 
 added in comments 
+
+https://editor.p5js.org/carolinecontento/sketches/ZeqXCPDMg
+I duplicated the first assignment 
+and added a for loop to create 50 bubbles randomly appearing on the screen
