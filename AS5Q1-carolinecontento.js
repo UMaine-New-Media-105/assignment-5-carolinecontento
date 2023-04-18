@@ -10,11 +10,12 @@ function setup() {
   bubble3 = new Bubble(100, 200, 40);
   bubble4 = new Bubble(500, 600, 50);
   bubble5 = new Bubble(10, 700, 40);
-  // print(bubble.x, bubble.y);
+  
 }
 
 function draw() {
   background(220);
+  //this will show the bubbles 
   bubble1.move();
   bubble1.show();
   bubble2.move();
@@ -34,6 +35,7 @@ class Bubble {
   }
 
   move() {
+    // this will make the bubbles move randomly 
     this.x = this.x + random(-10, 10);
     this.y = this.y + random(-10, 10);
   }
