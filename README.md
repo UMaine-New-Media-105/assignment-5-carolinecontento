@@ -11,3 +11,10 @@ added in comments
 https://editor.p5js.org/carolinecontento/sketches/ZeqXCPDMg
 I duplicated the first assignment 
 and added a for loop to create 50 bubbles randomly appearing on the screen
+
+https://editor.p5js.org/carolinecontento/sketches/THZk25-0w
+I duplicated the first assignment 
+and added a for loop to create 50 bubbles randomly appearing on the screen
+I then added the crab which is called myCatcher in the code 
+I then also added the kelp and this is what the crab will eat in the future game 
+i added a for loop to create 20 kelp food and 10 crabs
