@@ -18,3 +18,12 @@ and added a for loop to create 50 bubbles randomly appearing on the screen
 I then added the crab which is called myCatcher in the code 
 I then also added the kelp and this is what the crab will eat in the future game 
 i added a for loop to create 20 kelp food and 10 crabs
+
+https://editor.p5js.org/carolinecontento/sketches/_2vFNRZ9l
+so i could not figure out how to breed the crabs. I did however though get the kelp to disappear and be eaten by the crab in the game.
+I duplicated the first assignment 
+and added a for loop to create 50 bubbles randomly appearing on the screen
+I then added the crab which is called myCatcher in the code 
+I then also added the kelp and this is what the crab will eat in the future game 
+I added a for loop to create 50 kelp food and 5 crabs
+I also created in the draw function a loop so that when the kelp collides with the crab then it becomes eaten. 
